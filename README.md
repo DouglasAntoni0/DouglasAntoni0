@@ -19,7 +19,7 @@ Sou o **Douglas Antonio**, em formação como **Engenheiro de Qualidade de Softw
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglasAntoni0&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglasAntoni0&repo=DouglasAntoni0.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
