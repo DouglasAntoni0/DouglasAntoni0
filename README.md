@@ -6,7 +6,7 @@ Sou o **Douglas Antonio**, em formação como **Engenheiro de Qualidade de Softw
 ---
 
 ### Objetivo
-Atuar como **QA (Júnior/Estágio/Projetos)** em times ágeis, ajudando a **elevar a qualidade**, reduzir retrabalho e acelerar entregas com automação e boas práticas.
+Atuar como **QA em times ágeis, ajudando a elevar a qualidade, reduzir retrabalho e acelerar entregas com automação e boas práticas.**
 
 ---
 
@@ -38,7 +38,7 @@ Atuar como **QA (Júnior/Estágio/Projetos)** em times ágeis, ajudando a **elev
 
 ### Como trabalho QA
 - **Planejamento de testes** alinhado ao risco do negócio e critérios de aceite.  
-- **Pyramid of Testing** (unitário → integração → E2E) para otimizar custo x benefício.  
+- **Pirâmide de testes** (unitário → integração → E2E) para otimizar custo x benefício.  
 - **Automação pragmática** com Cypress/Playwright (web) e Appium (mobile).  
 - **APIs**: validação funcional e de contrato (Postman + Swagger/OpenAPI).  
 - **CI/CD**: suites rodando em **GitHub Actions** com relatórios.  
@@ -46,25 +46,25 @@ Atuar como **QA (Júnior/Estágio/Projetos)** em times ágeis, ajudando a **elev
 
 ---
 
-### Formaç​ão e cursos (seleção)
+### Formação e cursos (seleção)
 - **EBAC** – Engenharia de Qualidade de Software (QA) *(em formação)*  
-- **EBAC** – TI do Zero ao Pro *(concl./em andamento conforme módulos)*  
+- **EBAC** – TI do Zero ao Pro *(módulos concluídos/em andamento)*  
 - **EBAC** – Python para Análise de Dados *(em andamento)*  
 - **EBAC** – Introdução à Programação *(concl./em andamento)*  
 - **Cyber Security** *(conteúdos introdutórios e boas práticas)*
 
-> *Obs.: listo apenas o essencial no README; detalhes completos no LinkedIn abaixo.*
+> *Obs.: Detalhes completos no LinkedIn abaixo.*
 
 ---
 
 ### Roadmap de estudos (2025)
-- [x] Fundamentos de QA, tipos de teste e pirâmide  
-- [x] Cypress básico (UI/E2E)  
-- [ ] Playwright + boas práticas de page objects  
-- [ ] Appium (Android) – estabilização de cenários flakey  
-- [ ] Contratos de API (OpenAPI), testes de contrato e mocks  
-- [ ] GitHub Actions: pipeline com testes + artefatos  
-- [ ] Métricas de qualidade (falhas, cobertura de cenários críticos)
+- Fundamentos de QA, tipos de teste e pirâmide  
+- **Cypress (UI/E2E — avançado)**  
+- Playwright e boas práticas de Page Objects  
+- Appium (Android) — estabilização de cenários flakey  
+- Contratos de API (OpenAPI), testes de contrato e mocks  
+- GitHub Actions: pipeline com testes e artefatos  
+- Métricas de qualidade (falhas, cobertura de cenários críticos)
 
 ---
 
