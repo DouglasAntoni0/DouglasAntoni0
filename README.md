@@ -1,7 +1,7 @@
 # Olá 👋
 
 ###### Sobre mim
-Sou o **Douglas Antonio**, em formação como **Engenheiro de Qualidade de Software (QA)** pela EBAC, focado em **testes manuais e automatizados**. Tenho prática com **Cypress (UI/E2E)**, **testes de API** (Postman/Swagger), **automação mobile** (Appium + WebdriverIO) e **CI/CD** (GitHub Actions). Curto processos bem definidos, usabilidade e transformar requisitos em **testes confiáveis** que protegem o produto e a experiência do usuário.
+Sou o **Douglas Antonio**, formado como **Engenheiro de Qualidade de Software (QA)** pela EBAC, focado em **testes manuais e automatizados**. Tenho prática com **Cypress (UI/E2E)**, **testes de API** (Postman/Swagger), **automação mobile** (Appium + WebdriverIO) e **CI/CD** (GitHub Actions). Curto processos bem definidos, usabilidade e transformar requisitos em **testes confiáveis** que protegem o produto e a experiência do usuário.
 
 ---
 
