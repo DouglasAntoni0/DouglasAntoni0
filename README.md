@@ -47,10 +47,10 @@ Atuar como **QA em times ágeis, ajudando a elevar a qualidade, reduzir retrabal
 ---
 
 ### Formação e cursos (seleção)
-- **EBAC** – Engenharia de Qualidade de Software (QA) *(em formação)*  
-- **EBAC** – TI do Zero ao Pro *(módulos concluídos/em andamento)*  
+- **EBAC** – Engenharia de Qualidade de Software (QA) *(concluído)*  
+- **EBAC** – TI do Zero ao Pro *(concluído)*  
 - **EBAC** – Python para Análise de Dados *(em andamento)*  
-- **EBAC** – Introdução à Programação *(concl./em andamento)*  
+- **EBAC** – Introdução à Programação *(em andamento)*  
 - **Cyber Security** *(conteúdos introdutórios e boas práticas)*
 
 > *Obs.: Detalhes completos no LinkedIn abaixo.*
