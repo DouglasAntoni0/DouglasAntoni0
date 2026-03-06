@@ -70,9 +70,9 @@ Atuar como **QA em times ágeis**, ajudando a elevar a qualidade do produto, red
 ---
 
 ### 📊 Estatísticas do Repositório
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DouglasAntoni0&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=DouglasAntoni0&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAntoni0&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DouglasAntoni0&layout=compact&theme=dark)
 
 ---
 
