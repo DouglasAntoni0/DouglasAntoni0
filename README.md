@@ -137,13 +137,12 @@ Essa vivência fortaleceu muito minha atuação atual em qualidade, principalmen
 - Melhorar cada vez mais a integração de qualidade em CI/CD
 - Manter o GitHub como portfólio técnico real de QA moderno
 
-# Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAntoni0&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAntoni0&layout=compact&theme=transparent&locale=pt-br&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasAntoni0&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DouglasAntoni0&theme=github_dark" alt="Linguagens mais usadas" />
 </p>
-
 ## Resumo profissional
 
 Sou um QA com perfil prático, técnico e orientado à evolução contínua. Gosto de transformar requisitos em cenários claros, construir automações que façam sentido para o time e usar qualidade como disciplina de engenharia, não apenas como validação no fim da entrega.
