@@ -137,11 +137,11 @@ Essa vivência fortaleceu muito minha atuação atual em qualidade, principalmen
 - Melhorar cada vez mais a integração de qualidade em CI/CD
 - Manter o GitHub como portfólio técnico real de QA moderno
 
-## Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DouglasAntoni0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAntoni0&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAntoni0&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAntoni0&layout=compact&theme=transparent&locale=pt-br&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 ## Resumo profissional
