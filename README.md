@@ -46,6 +46,7 @@ Gosto de tratar qualidade como disciplina de engenharia. Para mim, QA não é ap
 ### Automação e Testes
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -68,6 +69,7 @@ Gosto de tratar qualidade como disciplina de engenharia. Para mim, QA não é ap
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -79,7 +81,7 @@ Meu perfil foi construído como portfólio técnico prático. Aqui você vai enc
 
 - automação Web e E2E com foco em manutenção e escalabilidade
 - testes de API com validação funcional, contrato e estrutura de execução
-- automação mobile com Appium e WebdriverIO
+- automação mobile com Robot Framework, Appium e WebdriverIO
 - testes de performance com cenários completos em k6
 - integração com banco de dados, massa de testes e CI/CD
 - documentação técnica pensada para demonstrar raciocínio, organização e maturidade na abordagem
@@ -93,7 +95,7 @@ Meu perfil foi construído como portfólio técnico prático. Aqui você vai enc
 | [ninjadocypress](https://github.com/DouglasAntoni0/ninjadocypress) | Portfólio avançado de automação com UI, API e banco de dados, usando dados dinâmicos, Docker, cenários reais de negócio e organização focada em manutenção | Cypress, Node.js, Express, PostgreSQL, Prisma, Docker |
 | [TCC-EBAC-QE](https://github.com/DouglasAntoni0/TCC-EBAC-QE) | Projeto final de Engenharia de Qualidade reunindo estratégia de testes para Web, API, Mobile, Performance e CI/CD em um contexto de e-commerce | Cypress, Jest, Supertest, WebdriverIO, k6, GitHub Actions |
 | [exercicio-testes-api-graphql](https://github.com/DouglasAntoni0/exercicio-testes-api-graphql) | Cobertura automatizada para API GraphQL com execução estruturada e geração de relatórios | Pactum, Mocha, Mochawesome, GraphQL |
-| [teste-mobile-ebac-shop](https://github.com/DouglasAntoni0/teste-mobile-ebac-shop) | Estrutura prática de automação mobile para Android, reforçando experiência com testes em dispositivos e fluxos críticos de aplicativo | WebdriverIO, Appium, JavaScript |
+| [QAx-Mobile](https://github.com/DouglasAntoni0/QAx-Mobile) | Ecossistema de automação mobile para Android com Robot Framework, Appium, Python e WebdriverIO, incluindo fluxos de negócio, API local, MongoDB e pipeline com emulador Android | Robot Framework, Appium, Python, WebdriverIO, MongoDB, GitHub Actions |
 
 ## Abordagem de qualidade
 
@@ -156,8 +158,10 @@ Essa base fortaleceu bastante minha atuação atual, principalmente em:
 - Arquitetura de testes e organização de frameworks
 - Actions, Page Objects, fixtures e gestão de massa de dados
 - Integração com banco de dados para setup e cleanup de cenários
+- Automação mobile com Android Emulator, UiAutomator2 e Robot Framework
 - Relatórios de execução, traces, screenshots e evidências
 - SQL e apoio à validação de dados
+- MongoDB e controle de massa para testes mobile
 - Git, GitHub, branches, pull requests e fluxo colaborativo
 - Qualidade orientada a métricas, clareza e melhoria contínua
 
@@ -169,7 +173,7 @@ Essa base fortaleceu bastante minha atuação atual, principalmente em:
 ## Foco atual
 
 - Evoluir arquiteturas de automação mais robustas com Playwright e Cypress
-- Aprofundar cobertura mobile com Appium e WebdriverIO
+- Aprofundar cobertura mobile com Robot Framework, Appium e WebdriverIO
 - Fortalecer testes de API e contrato
 - Expandir prática de performance engineering com k6 e JMeter
 - Explorar aplicações de IA para qualidade, automação inteligente e análise preditiva
@@ -193,5 +197,4 @@ Busco oportunidades em que eu possa contribuir com estratégia de testes, automa
 - LinkedIn: [douglas-antonio-qa](https://www.linkedin.com/in/douglas-antonio-qa/)
 - E-mail: [douglas.tony1235@gmail.com](mailto:douglas.tony1235@gmail.com)
 - GitHub: [github.com/DouglasAntoni0](https://github.com/DouglasAntoni0)
-- Site: https://douglasqa.netlify.app/
 - Localização: Araçuaí, Minas Gerais, Brasil
