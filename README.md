@@ -1,9 +1,13 @@
-<h1 align="center">Douglas Antonio</h1>
-<h3 align="center">Engenheiro de Qualidade de Software | QA | Automação Web, API, Mobile e Performance</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:111827,100:2EAD33&height=140&section=header&text=Douglas%20Antonio&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Software%20Quality%20Engineer%20%7C%20QA%20Automation%20%7C%20Web%2C%20API%2C%20Mobile%2C%20Performance%20%26%20AI&descSize=14&descAlignY=61" alt="Douglas Antonio - Software Quality Engineer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-antonio-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Douglas%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://douglasqa.netlify.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-douglasqa.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio" />
   </a>
   <a href="mailto:douglas.tony1235@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-douglas.tony1235%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
@@ -14,187 +18,192 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Baseado%20em-Ara%C3%A7ua%C3%AD%2C%20MG-009C3B?style=flat-square" alt="Araçuaí, MG" />
-  <img src="https://img.shields.io/badge/Foco-QA%20e%20Automa%C3%A7%C3%A3o-1F6FEB?style=flat-square" alt="QA e Automação" />
-  <img src="https://img.shields.io/badge/Perfil-Hands%20on-111111?style=flat-square" alt="Hands on" />
-  <img src="https://img.shields.io/badge/Open%20to-Oportunidades-444444?style=flat-square" alt="Oportunidades" />
+  <img src="https://img.shields.io/badge/Base-Ara%C3%A7ua%C3%AD%2C%20MG-009C3B?style=flat-square" alt="Araçuaí, Minas Gerais" />
+  <img src="https://img.shields.io/badge/Foco-Quality%20Engineering-1F6FEB?style=flat-square" alt="Quality Engineering" />
+  <img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-Web%20%7C%20API%20%7C%20Mobile%20%7C%20Performance-111827?style=flat-square" alt="Web, API, Mobile e Performance" />
+  <img src="https://img.shields.io/badge/Diferencial-IA%20aplicada%20a%20QA-7D64FF?style=flat-square" alt="IA aplicada a QA" />
 </p>
 
 ## Sobre mim
 
-Sou Engenheiro de Qualidade de Software com foco em qualidade ponta a ponta, automação de testes e prevenção de falhas ao longo de todo o ciclo de desenvolvimento.
+Sou **Engenheiro de Qualidade de Software (QA)** com atuação ponta a ponta em estratégia de testes, automação, validação de APIs, mobile, performance, CI/CD e evidências de release.
 
-Minha atuação combina estratégia de testes, execução manual e automatizada, validação de APIs, testes mobile, performance, CI/CD e colaboração próxima com produto e desenvolvimento para reduzir retrabalho, aumentar a previsibilidade do release e proteger a experiência do usuário.
+Minha especialidade é transformar requisitos e riscos de produto em **cenários objetivos, automações sustentáveis e feedback técnico acionável**. Trabalho com visão shift-left, colaboração próxima com produto e desenvolvimento, rastreabilidade de defeitos e arquitetura de testes pensada para reduzir retrabalho, flakiness e incerteza nos ciclos de entrega.
 
-Gosto de tratar qualidade como disciplina de engenharia. Para mim, QA não é apenas validar no final, mas ajudar o time a construir melhor desde o início com critérios claros, cenários bem pensados, automação sustentável e evidências úteis para tomada de decisão.
+Tenho formação profissional em **Engenharia de Qualidade de Software pela EBAC** e uma base anterior sólida em coordenação operacional, melhoria contínua, padronização de processos e controle de qualidade. Essa combinação me dá uma visão bem prática: qualidade não é uma etapa no final do fluxo, é uma disciplina de engenharia aplicada desde a concepção até a produção.
 
-## Proposta de valor
+## Como gero valor
 
-- Planejamento de testes orientado a risco e impacto de negócio
-- Criação de planos, cenários, casos de teste e rastreabilidade
-- Automação Web e E2E com Cypress e Playwright
-- Testes de API para REST e GraphQL com Postman, Swagger/OpenAPI, Insomnia e Pactum
-- Testes mobile com Appium, WebdriverIO e Android
-- Testes de performance com k6 e JMeter
-- Integração de testes em pipelines com GitHub Actions, Jenkins e GitLab CI
-- Uso de BDD, Gherkin e critérios de aceite para transformar requisitos em cenários objetivos
-- Atuação com smoke, regressão, exploratório, integração, contrato, E2E e performance
-- Reporte de bugs com clareza, evidências e foco em resolução
+| Frente | O que entrego |
+| --- | --- |
+| Estratégia de testes | Planejamento orientado a risco, critérios de aceite, cenários BDD/Gherkin, cobertura funcional, regressiva, exploratória e smoke |
+| Automação Web e E2E | Frameworks com Cypress e Playwright, Page Objects/Actions, fixtures, dados dinâmicos, execução multi-browser e evidências |
+| APIs e contratos | Validação REST/GraphQL com Postman, Insomnia, Swagger/OpenAPI, Pactum, Supertest, Cypress e Playwright API |
+| Mobile | Automação Android com Appium, Robot Framework, WebdriverIO, UiAutomator2, Maestro e Android Studio |
+| Performance | Cenários de smoke, load, stress, spike, soak e breakpoint com k6 e JMeter, métricas, thresholds e análise de gargalos |
+| Dados e ambientes | Massa de testes, fixtures, Faker.js, SQL, PostgreSQL, MongoDB, setup/cleanup e isolamento de estado |
+| CI/CD e DevOps | GitHub Actions, GitLab CI, Jenkins, Docker, Git Flow, pipelines de validação e relatórios como artefatos |
+| Security QA e IA | Fundamentos OWASP Top 10, segurança aplicada a QA, OpenAI API, massa sintética, validação com Zod e self-healing controlado |
 
 ## Stack principal
 
-### Automação e Testes
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Pactum](https://img.shields.io/badge/Pactum-1A73E8?style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+</p>
 
-### Performance, Processo e Qualidade
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-Gherkin-2F855A?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### Linguagens, Dados e DevOps
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## O que você vai encontrar no meu GitHub
-
-Meu perfil foi construído como portfólio técnico prático. Aqui você vai encontrar projetos que mostram como eu aplico QA de forma real em diferentes camadas:
-
-- automação Web e E2E com foco em manutenção e escalabilidade
-- testes de API com validação funcional, contrato e estrutura de execução
-- automação mobile com Robot Framework, Appium e WebdriverIO
-- testes de performance com cenários completos em k6
-- integração com banco de dados, massa de testes e CI/CD
-- documentação técnica pensada para demonstrar raciocínio, organização e maturidade na abordagem
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+</p>
 
 ## Projetos em destaque
 
 | Projeto | O que demonstra | Stack |
 | --- | --- | --- |
-| [playwrightcomplete](https://github.com/DouglasAntoni0/playwrightcomplete) | Ecossistema avançado de automação E2E para uma plataforma de streaming, com execução multi-browser e mobile, apoio por API, manipulação de dados, banco PostgreSQL, evidências e pipeline pronta para CI | Playwright, JavaScript, Node.js, PostgreSQL, Docker, GitHub Actions |
-| [Projeto-completo-k6](https://github.com/DouglasAntoni0/Projeto-completo-k6) | Suíte completa de testes de performance cobrindo smoke, load, stress, spike, soak e breakpoint, além de REST, WebSocket, thresholds, custom metrics e cenários reutilizáveis | k6, JavaScript, performance engineering, métricas, CI |
-| [ninjadocypress](https://github.com/DouglasAntoni0/ninjadocypress) | Portfólio avançado de automação com UI, API e banco de dados, usando dados dinâmicos, Docker, cenários reais de negócio e organização focada em manutenção | Cypress, Node.js, Express, PostgreSQL, Prisma, Docker |
-| [TCC-EBAC-QE](https://github.com/DouglasAntoni0/TCC-EBAC-QE) | Projeto final de Engenharia de Qualidade reunindo estratégia de testes para Web, API, Mobile, Performance e CI/CD em um contexto de e-commerce | Cypress, Jest, Supertest, WebdriverIO, k6, GitHub Actions |
-| [exercicio-testes-api-graphql](https://github.com/DouglasAntoni0/exercicio-testes-api-graphql) | Cobertura automatizada para API GraphQL com execução estruturada e geração de relatórios | Pactum, Mocha, Mochawesome, GraphQL |
-| [QAx-Mobile](https://github.com/DouglasAntoni0/QAx-Mobile) | Ecossistema de automação mobile para Android com Robot Framework, Appium, Python e WebdriverIO, incluindo fluxos de negócio, API local, MongoDB e pipeline com emulador Android | Robot Framework, Appium, Python, WebdriverIO, MongoDB, GitHub Actions |
+| [QA AI Playwright OpenAI](https://github.com/DouglasAntoni0/automacao-inteligente-qa) | Automação E2E com geração dinâmica de massa sintética, validação de contrato com Zod, self-healing controlado de seletores, evidências no relatório e CI/CD | Playwright, TypeScript, OpenAI API, Zod, GitHub Actions |
+| [QA E2E Test Suite - SouJunior](https://github.com/DouglasAntoni0/Testes-E2E-SouJunior) | Suíte independente e dual-framework para plataforma real, com dezenas de cenários, responsividade, acessibilidade, massa centralizada e baseline de qualidade | Cypress, Playwright, JavaScript, Node.js, CI/CD |
+| [Zombie+ Playwright Complete](https://github.com/DouglasAntoni0/playwrightcomplete) | Ecossistema avançado de automação para plataforma de streaming, combinando UI, API, banco, fixtures, multi-browser, mobile e evidências | Playwright, JavaScript, PostgreSQL, Docker, GitHub Actions |
+| [WebDojo Cypress](https://github.com/DouglasAntoni0/ninjadocypress) | Automação full stack com E2E, API, banco de dados, Docker, Prisma, dados dinâmicos, mocks e arquitetura modular | Cypress, Node.js, Express, PostgreSQL, Prisma, Docker |
+| [Performance Testing com k6](https://github.com/DouglasAntoni0/Projeto-completo-k6) | Suíte completa de engenharia de performance cobrindo smoke, load, stress, spike, soak, breakpoint, WebSocket, thresholds e relatórios | k6, JavaScript, métricas, WebSocket, CI |
+| [QAx Mobile](https://github.com/DouglasAntoni0/QAx-Mobile) | Automação mobile Android com fluxos de negócio, API local, MongoDB, evidências e execução em pipeline com emulador | Robot Framework, Appium, Python, WebdriverIO, MongoDB |
+| [AutomateX API Testing](https://github.com/DouglasAntoni0/testes-de-api) | Framework de testes de API com abordagem dual-framework, isolamento de estado, CRUD completo, autenticação e pipeline | Cypress, Playwright, TypeScript, GitHub Actions |
+| [Pytest Task Manager](https://github.com/DouglasAntoni0/pytest) | Suíte Python cobrindo unidade, integração, API Flask, E2E com Playwright, máquina de estados, fixtures e cobertura de código | Python, Pytest, Flask, Playwright, GitHub Actions |
+| [Portfólio Profissional](https://douglasqa.netlify.app/) | Hub visual com projetos, stack, atuação em QA e narrativa profissional focada em qualidade escalável | HTML, CSS, JavaScript, GSAP, Netlify |
 
-## Abordagem de qualidade
+## Minha abordagem de qualidade
 
-Minha forma de trabalhar em QA é muito guiada por contexto, risco e valor entregue. Na prática, isso significa:
+```text
+Requisitos e risco
+      -> critérios de aceite claros
+      -> cenários manuais, exploratórios e automatizados
+      -> automação por camada correta
+      -> massa de dados controlada
+      -> execução em CI/CD
+      -> evidência útil para decisão
+      -> melhoria contínua da suíte
+```
 
-- entender o impacto do requisito antes de sair automatizando
-- transformar critérios de aceite em cenários claros e objetivos
-- equilibrar testes manuais, exploratórios e automatizados de forma inteligente
-- usar a camada certa para validar o comportamento certo
-- construir automação pensando em estabilidade, leitura e manutenção
-- gerar evidências que ajudem o time a agir rápido quando algo quebra
+- Automatizo com intenção: nem tudo precisa virar script, mas o que vira precisa ser confiável, legível e sustentável.
+- Gosto de validar comportamento pela camada certa: UI para jornada, API para contrato e integração, banco para dados, performance para resiliência.
+- Trato bug report como peça técnica: contexto, impacto, passos, evidências, ambiente e hipótese ajudam o time a corrigir mais rápido.
+- Defendo qualidade desde o início do SDLC: requisitos bem refinados e critérios de aceite objetivos reduzem retrabalho antes da primeira linha de código.
+- Uso IA como apoio controlado, não como atalho: geração de dados, validação por schema e self-healing auditável precisam preservar rastreabilidade.
 
 ## Experiência em destaque
 
-### SouJunior | Engenheiro de Qualidade de Software (QA) | Voluntariado
+### SouJunior - Engenheiro de Qualidade de Software (QA) | Voluntariado
 
-- Planejamento, modelagem e execução de planos de teste, cenários e casos de teste
-- Testes funcionais, regressivos, smoke, sanidade, usabilidade e exploratórios
-- Gestão de defeitos com reporte detalhado e acompanhamento do ciclo de vida do bug
-- Validação de APIs com Postman e Insomnia
-- Automação inicial e manutenção de testes de UI e API com Cypress e Playwright
-- Participação ativa em cerimônias ágeis, refinamento e alinhamento de critérios de aceite
+- Colaboração em rotinas ágeis com times de produto e desenvolvimento.
+- Estruturação de roteiros de verificação, cenários funcionais e validações regressivas.
+- Construção e manutenção de fluxos automatizados com Cypress e Playwright.
+- Registro detalhado de inconsistências, evidências e acompanhamento corretivo.
+- Atuação com Jira, Trello, Postman, Swagger, Git/GitHub, SQL básico, BDD/Gherkin e critérios de aceite.
 
-### Freelancer | Engenheiro de Qualidade de Software (QA)
+### Freelancer - Engenheiro de Qualidade de Software (QA)
 
-- Atuação ponta a ponta em qualidade de software com foco em prevenção de falhas
-- Automação Web/E2E com Cypress e Playwright
-- Testes de API com Postman, Swagger/OpenAPI e validações funcionais
-- Testes mobile com Appium e WebdriverIO
-- Testes de performance com JMeter e k6
-- Integração contínua com GitHub Actions, Jenkins, GitLab CI e Docker
-- Planejamento de testes, execução manual e automatizada e reporte estruturado de bugs
+- Desenvolvimento e manutenção de automações Web/E2E com Cypress e Playwright.
+- Estratégias de testes baseadas em risco, transformando requisitos em cenários objetivos.
+- Testes de API e validação de contratos REST com Postman, Swagger/OpenAPI e automação.
+- Testes mobile com Appium, WebdriverIO e Android Studio.
+- Testes de performance com JMeter e k6.
+- Pipelines automatizadas com Jenkins, GitHub Actions, GitLab CI e Docker.
 
-### Experiência anterior em operações e melhoria contínua
+### Operações, qualidade e melhoria contínua
 
-Antes da transição para QA, desenvolvi uma trajetória sólida em coordenação operacional, padronização de processos, controle de qualidade, organização de demandas e melhoria contínua.
+Antes da transição para QA, construí uma trajetória em coordenação operacional, padronização de processos, controle de qualidade, gestão de demandas e melhoria contínua.
 
-Essa base fortaleceu bastante minha atuação atual, principalmente em:
+Essa base aparece diretamente na minha atuação atual: atenção a detalhes, organização, análise de causa, comunicação entre áreas, priorização por impacto e foco em reduzir falhas repetitivas.
 
-- atenção aos detalhes
-- padronização e disciplina de processo
-- priorização de demandas e acompanhamento de tratativas
-- comunicação entre áreas
-- redução de erros e retrabalho
-- visão prática de operação, qualidade e eficiência
+## Formação e evolução contínua
 
-## Formação, cursos e especializações
-
-- **EBAC** - Formação Profissional em Engenharia de Qualidade de Software
-- **Playwright Completo** - automação E2E, API, banco de dados, fixtures, relatórios e CI/CD
-- **Ninja do Cypress** - framework Web E2E com Page Objects, massa dinâmica, relatórios e integração contínua
-- **Teste de Performance com k6** - carga, estresse, spike, soak, thresholds e análise de gargalos
-- **CyberSecurity** - fundamentos de segurança, vulnerabilidades, riscos e visão aplicada a Security QA
-- **TI do Zero ao Pro** - fundamentos de TI, SDLC, requisitos, arquitetura e base para qualidade
-- **Inteligência Artificial** - estudos em andamento com foco em Python, dados e aplicações futuras em QA
-- **Introdução à Programação** - estudos em andamento para fortalecer lógica, leitura de código e automação
+- **EBAC** - Formação Profissional em Engenharia de Qualidade de Software.
+- **Playwright Completo** - E2E, API, banco de dados, fixtures, relatórios, multi-browser e CI/CD.
+- **Ninja do Cypress** - automação Web E2E, Page Objects, dados dinâmicos, Docker, API e banco.
+- **Performance com k6** - carga, stress, spike, soak, breakpoint, thresholds e análise de gargalos.
+- **Cybersecurity / Security QA** - fundamentos de segurança, OWASP Top 10, vulnerabilidades e proteção de dados.
+- **Postman e APIs** - validação manual, contratos, performance de APIs e análise de respostas.
+- **Inteligência Artificial** - Python, IA aplicada a QA, massa dinâmica, LLMs e automação inteligente.
+- **TI, lógica e programação** - base técnica para leitura de código, SDLC, arquitetura e qualidade.
 
 ## Competências complementares
 
-- Arquitetura de testes e organização de frameworks
-- Actions, Page Objects, fixtures e gestão de massa de dados
-- Integração com banco de dados para setup e cleanup de cenários
-- Automação mobile com Android Emulator, UiAutomator2 e Robot Framework
-- Relatórios de execução, traces, screenshots e evidências
-- SQL e apoio à validação de dados
-- MongoDB e controle de massa para testes mobile
-- Git, GitHub, branches, pull requests e fluxo colaborativo
-- Qualidade orientada a métricas, clareza e melhoria contínua
+| Categoria | Competências |
+| --- | --- |
+| Test design | Test Plan, Test Strategy, Test Cases, BDD, Gherkin, Cucumber, critérios de aceite |
+| Tipos de teste | Manual, funcional, regressivo, smoke, sanidade, exploratório, integração, contrato, E2E, mobile, performance e segurança |
+| Arquitetura de automação | Page Objects, Actions, fixtures, comandos customizados, helpers de API, setup/teardown e relatórios |
+| Evidências | Screenshots, traces, vídeos, relatórios HTML, logs, artefatos de pipeline e documentação técnica |
+| Dados | Faker.js, fixtures JSON/CSV, SQL, PostgreSQL, MongoDB, massa dinâmica e limpeza de estado |
+| Processo | Agile, Scrum, Kanban, Jira, Trello, Git Flow, pull requests e comunicação com produto/desenvolvimento |
+| Idiomas | Português nativo e inglês técnico/intermediário |
 
-## Idiomas
+## GitHub em números
 
-- Português: nativo / fluente
-- Inglês: intermediário
-
-## Foco atual
-
-- Evoluir arquiteturas de automação mais robustas com Playwright e Cypress
-- Aprofundar cobertura mobile com Robot Framework, Appium e WebdriverIO
-- Fortalecer testes de API e contrato
-- Expandir prática de performance engineering com k6 e JMeter
-- Explorar aplicações de IA para qualidade, automação inteligente e análise preditiva
-- Manter o GitHub como portfólio técnico real e em constante evolução
-
-## Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasAntoni0&theme=github_dark" alt="Resumo do perfil GitHub" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasAntoni0&theme=github_dark" alt="Estatísticas do GitHub" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DouglasAntoni0&theme=github_dark" alt="Linguagens mais usadas" />
 </p>
 
-## Resumo profissional
+## O que você encontra por aqui
 
-Sou um QA com perfil técnico, mão na massa e orientado à evolução contínua. Gosto de transformar requisitos em cenários claros, construir automações que façam sentido para o time e usar qualidade como parte da engenharia do produto, não apenas como checagem final.
+Este GitHub funciona como um portfólio técnico prático. Os repositórios foram pensados para mostrar raciocínio de QA em diferentes níveis de profundidade:
 
-Busco oportunidades em que eu possa contribuir com estratégia de testes, automação, qualidade de produto e melhoria contínua dentro de times que valorizem colaboração, clareza e responsabilidade técnica.
+- automação Web/E2E com Cypress e Playwright;
+- testes de API com contratos, autenticação, CRUD e pipelines;
+- mobile testing com Appium, Robot Framework e WebdriverIO;
+- performance engineering com k6 e JMeter;
+- qualidade em CI/CD com evidências rastreáveis;
+- dados de teste, banco, fixtures e isolamento de estado;
+- IA aplicada a QA com geração de massa, schema validation e self-healing auditável;
+- documentação técnica clara, orientada a quem precisa entender, executar e evoluir a suíte.
 
-## Contato
+## Contato profissional
 
-- LinkedIn: [douglas-antonio-qa](https://www.linkedin.com/in/douglas-antonio-qa/)
-- E-mail: [douglas.tony1235@gmail.com](mailto:douglas.tony1235@gmail.com)
-- GitHub: [github.com/DouglasAntoni0](https://github.com/DouglasAntoni0)
-- Localização: Araçuaí, Minas Gerais, Brasil
+<p align="center">
+  <a href="https://douglasqa.netlify.app/">
+    <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Ver portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-antonio-qa/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:douglas.tony1235@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Qualidade bem feita reduz incerteza, acelera decisão e protege a experiência de quem usa o produto.</strong>
+</p>
+
+<p align="center">
+  Atualizado em junho de 2026.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,50:111827,100:0A66C2&height=90&section=footer" alt="Footer" />
+</p>
