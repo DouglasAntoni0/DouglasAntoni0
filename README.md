@@ -235,5 +235,5 @@ Este GitHub funciona como um portfólio técnico prático de **Quality Engineeri
 </p>
 
 <p align='center'>
-  <sub>Quality Engineering | QA Automation | Web, API, Mobile, Performance & IA</sub>
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,50:111827,100:0A66C2&height=95&section=footer' alt='Footer' />
 </p>
