@@ -1,6 +1,8 @@
-<p align='center'>
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:111827,100:2EAD33&height=155&section=header&text=Douglas%20Antonio&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Quality%20Engineering%20%7C%20QA%20Automation%20%7C%20Web%2C%20API%2C%20Mobile%2C%20Performance%20%26%20AI&descSize=14&descAlignY=62' alt='Douglas Antonio - Quality Engineering e QA Automation' />
-</p>
+<div align='center'>
+  <h1>Douglas Antonio</h1>
+  <p><strong>Quality Engineering | QA Automation | Web, API, Mobile, Performance & IA</strong></p>
+  <p>Engenheiro de Qualidade de Software focado em estratégia de testes, automação ponta a ponta e estabilidade de sistemas.</p>
+</div>
 
 <p align='center'>
   <a href='https://www.linkedin.com/in/douglas-antonio-qa/'>
@@ -233,5 +235,5 @@ Este GitHub funciona como um portfólio técnico prático de **Quality Engineeri
 </p>
 
 <p align='center'>
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,50:111827,100:0A66C2&height=95&section=footer' alt='Footer' />
+  <sub>Quality Engineering | QA Automation | Web, API, Mobile, Performance & IA</sub>
 </p>
