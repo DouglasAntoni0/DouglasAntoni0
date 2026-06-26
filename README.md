@@ -230,9 +230,6 @@ Este GitHub funciona como um portfólio técnico prático de **Quality Engineeri
   <strong>Qualidade bem feita não tenta adivinhar estabilidade. Ela cria evidência para decidir, corrigir e evoluir com confiança.</strong>
 </p>
 
-<p align='center'>
-  Atualizado em junho de 2026.
-</p>
 
 <p align='center'>
   <img src='https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,50:111827,100:0A66C2&height=95&section=footer' alt='Footer' />
